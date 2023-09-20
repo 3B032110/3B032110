@@ -1,4 +1,5 @@
 # Hi there 👋 Like Code Something
+[Check my main github account](https://www.github.com/yomisana)
 ![3B032110's GitHub PROFILE VIEWS](https://komarev.com/ghpvc/?username=3032110&color=grey&style=for-the-badge&label=PROFILE+VIEWS)
 [![support me of ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F2F3EIJG8)
 |   ![3B032110's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=3B032110&show_icons=true&theme=react)   |   ![3B032110's GitHub Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3B032110&layout=compact&theme=react)   |
